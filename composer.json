@@ -6,6 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "open-telemetry/api": "^1.9"
+        "open-telemetry/api": "^1.9",
+        "cloudevents/sdk-php": "^1.2"
     }
 }
