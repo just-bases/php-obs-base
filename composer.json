@@ -1,0 +1,9 @@
+{
+    "name": "just-bases/php-obs-base",
+    "description": "PHP Observability Metapackage",
+    "type": "metapackage",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
